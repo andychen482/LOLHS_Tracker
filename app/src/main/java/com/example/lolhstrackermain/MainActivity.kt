@@ -9,4 +9,6 @@ class MainActivity : AppCompatActivity() {
         //Test change
         setContentView(R.layout.activity_main)
     }
+
+    // hello
 }
