@@ -6,12 +6,6 @@ import android.os.Bundle
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        //Test change
         setContentView(R.layout.activity_main)
     }
-
-    // hello
-    //My name jeff
-    //test for ronak (andy)
-    //another test
 }
